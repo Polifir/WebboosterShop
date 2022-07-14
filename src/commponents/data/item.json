@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Deadpool",
+    "img": "https://fandomir.ru/wa-data/public/shop/products/78/69/66978/images/173721/173721.200x0.jpg",
+    "price": 3000,
+    "rait": 3.7
+  },
+  {
+    "id": 2,
+    "name": "Madara",
+    "img": "https://ae01.alicdn.com/kf/H54645f3d31264bbfb6860f8c0c5d5e8eb.jpg",
+    "price": 4000,
+    "rait": 4.9
+  },
+  {
+    "id": 3,
+    "name": "Sakura",
+    "img": "https://www.minejoy.ru/image/cache/catalog/catalog/naruto/12451-800x800.jpg",
+    "price": 5000,
+    "rait": 2.1
+  },
+  {
+    "id": 4,
+    "name": "Djek",
+    "img": "https://diamondelectric.ru/images/3367/3366459/figyrka_funko_pop_pirati_karibskogo_morya__kapitan_djek_vorobei_1.jpg",
+    "price": 8000,
+    "rait": 4.3
+  }
+]
